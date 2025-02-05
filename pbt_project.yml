@@ -1,0 +1,57 @@
+name: melynda.weber
+description: full-range
+version: 3.5.6.91
+author: null
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: melyndaweber
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2025-02-05 10:29:09'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2025-02-05 10:29:09'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2025-02-05T10:29:09.387069Z'
+  name: plibMaven
+  version: 8.9.0-SNAPSHOT
+  id: '1375662698'
+  createdAt: '2025-02-05T10:29:09.387069Z'
+  type: plibMaven
+projectDependencies:
+  '259':
+    projectUID: 259
+    projectName: josiah.cummings
+    repositoryPath: gitUri=http://gitserver:3000/dev_9X9AlIBq_team_475/dev_9X9AlIBq_project_259.git&subPath=
+    version: josiah.cummings/0.83.547
+    isDefault: false
+    author: null
+    createdAt: '2025-02-05 10:29:06'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
